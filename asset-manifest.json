@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/risk-level/static/css/main.da8ddba0.css",
+    "main.js": "/risk-level/static/js/main.fa4e60f7.js",
+    "static/media/Roboto-Medium.ttf": "/risk-level/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "index.html": "/risk-level/index.html",
+    "main.da8ddba0.css.map": "/risk-level/static/css/main.da8ddba0.css.map",
+    "main.fa4e60f7.js.map": "/risk-level/static/js/main.fa4e60f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8ddba0.css",
+    "static/js/main.fa4e60f7.js"
+  ]
+}
