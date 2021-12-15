@@ -1,0 +1,28 @@
+.card {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: #fff;
+
+    &__container {
+        width: 150px;
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    &_border {
+        border: 1px solid;
+    }
+
+    &__content {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex: 1 1 auto;
+    }
+
+    &__title {
+        height: 25%;
+        font-size: 13px;
+    }
+}

@@ -1,0 +1,19 @@
+.label {
+    display: inline-block;
+    font-size: 12px;
+    padding: 2px 7px;
+    border-radius: 2px;
+
+    &_green {
+        background-color: #d9f2dd;
+        color: #339944;
+    }
+    &_yellow {
+        background-color: #fff3cc;
+        color: #7f6821;
+    }
+    &_red {
+        background-color: #ffebeb;
+        color: #ff0e0e;
+    }
+}

@@ -1,0 +1,25 @@
+.indicator {
+    display: inline-block;
+
+    &__container {
+        display: flex;
+    }
+
+    &__segment {
+        width: 6px;
+        height: 6px;
+        background-color: #e4e5e7;
+        border-radius: 1px;
+        margin-right: 2px;
+
+        &_green {
+            background-color: #40bf54;
+        }
+        &_yellow {
+            background-color: #ffbf00;
+        }
+        &_red {
+            background-color: #ff0000;
+        }
+    }
+}
